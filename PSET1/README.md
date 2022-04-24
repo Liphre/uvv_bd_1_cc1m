@@ -1,4 +1,4 @@
-# PSET 1
+# PSET 1# PSET 1
 
 ## Git
 
@@ -93,8 +93,6 @@ mysql> use uvv;
 Database changed
 ```
 Apartir daqui, copiei todo o processo efetuado no _SQL Power Architect_.
+
 >Scripts com uma explicação mais detalhadas, podem ser encontrados logo acima deste readme.
-
-
-
-
+>Para o SQL Power Architect utilizar o elmasri.architect, para o PostgreSQL utilizar PostgreSQL.txt, para MySQL Script_MySQL.sql.
