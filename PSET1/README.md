@@ -41,7 +41,7 @@ template = template0
 encoding = 'UTF8'
 lc_collate = 'pt_BR.UTF-8'
 lc_ctype = 'pt_BR.UTF-8'
-allow_connections = true:
+allow_connections = true;
 
 ```
 Agora a conexão entre banco de dados com o usuário:
