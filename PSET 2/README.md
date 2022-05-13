@@ -4,60 +4,60 @@
 
 ## Questão 1
 Resposta: 
-![](img/img1.png)
+![](img1.png)
 
 ## Questão 2
 Resposta: 
-![](img/img2.png)
+![](img2.png)
 
 ## Questão 3
 Resposta: 
-![](img/img3.png)
+![](img3.png)
 
 ## Questão 4
 Resposta: 
-![](img/img4.png)
+![](img4.png)
 
 ## Questão 5
 Resposta: 
-![](img/img5.png)
+![](img5.png)
 
 ## Questão 6
 Resposta: 
-![](img/img6.png)
+![](img6.png)
 
 ## Questão 7
 Resposta: 
-![](img/img7.png)
+![](img7.png)
 
 ## Questão 8
 Resposta: 
-![](img/img8.png)
+![](img8.png)
 
 ## Questão 9
 Resposta: 
-![](img/img9.png)
+![](img9.png)
 
 ## Questão 10
 Resposta: 
-![](img/img10.png)
+![](img10.png)
 
 ## Questão 11
 Resposta: 
-![](img/img11.png)
+![](img11.png)
 
 ## Questão 12
 Resposta: 
-![](img/img12.png)
+![](img12.png)
 
 ## Questão 13
 Resposta: 
-![](img/img13.png)
+![](img13.png)
 
 ## Questão 14
 Resposta: 
-![](img/img14.png)
+![](img14.png)
 
 ## Questão 15
 Resposta: 
-![](img/img15.png)
+![](img15.png)
